@@ -1,0 +1,7 @@
+{
+  "name": "redscare",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
